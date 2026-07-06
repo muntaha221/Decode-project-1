@@ -1,0 +1,8 @@
+# OS files
+Thumbs.db
+Desktop.ini
+*.log
+node_modules/
+dist/
+build/
+*.tmp
